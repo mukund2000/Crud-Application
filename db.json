@@ -1,0 +1,23 @@
+{
+  "productList": [
+    {
+      "productName": "Iphone",
+      "category": "Electronics",
+      "freshness": "Brand New",
+      "price": 254100,
+      "date": "2022-11-02T18:30:00.000Z",
+      "comment": "Apple Device",
+      "id": 1
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
